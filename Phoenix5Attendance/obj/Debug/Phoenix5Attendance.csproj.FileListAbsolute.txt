@@ -1,0 +1,11 @@
+D:\測試工具\Phoenix5Attendance\Phoenix5Attendance\bin\Debug\Phoenix5Attendance.exe.config
+D:\測試工具\Phoenix5Attendance\Phoenix5Attendance\bin\Debug\Phoenix5Attendance.exe
+D:\測試工具\Phoenix5Attendance\Phoenix5Attendance\bin\Debug\Phoenix5Attendance.pdb
+D:\測試工具\Phoenix5Attendance\Phoenix5Attendance\bin\Debug\Newtonsoft.Json.dll
+D:\測試工具\Phoenix5Attendance\Phoenix5Attendance\bin\Debug\Newtonsoft.Json.xml
+D:\測試工具\Phoenix5Attendance\Phoenix5Attendance\obj\Debug\Phoenix5Attendance.Form1.resources
+D:\測試工具\Phoenix5Attendance\Phoenix5Attendance\obj\Debug\Phoenix5Attendance.Properties.Resources.resources
+D:\測試工具\Phoenix5Attendance\Phoenix5Attendance\obj\Debug\Phoenix5Attendance.csproj.GenerateResource.Cache
+D:\測試工具\Phoenix5Attendance\Phoenix5Attendance\obj\Debug\Phoenix5Attendance.exe
+D:\測試工具\Phoenix5Attendance\Phoenix5Attendance\obj\Debug\Phoenix5Attendance.pdb
+D:\測試工具\Phoenix5Attendance\Phoenix5Attendance\obj\Debug\Phoenix5Attendance.csprojResolveAssemblyReference.cache
